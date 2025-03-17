@@ -51,6 +51,7 @@ _Welcome to "Communicate using Markdown"! :wave:_
 
 ###### This is an `<h6>` header, which is the smallest
 
+
 ### :keyboard: Activity: Edit your file with headers
 
 1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
@@ -72,6 +73,7 @@ _Welcome to "Communicate using Markdown"! :wave:_
 
 ### sub header
 これはサブセクションを作っています
+
 
 <footer>
 
