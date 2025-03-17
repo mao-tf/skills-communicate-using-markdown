@@ -66,8 +66,10 @@ _Welcome to "Communicate using Markdown"! :wave:_
 1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
 
 ## trial hedaer
+これはヘッダーを作るためのテストです
 
 ### sub header
+これはサブセクションを作っています
 
 <footer>
 
